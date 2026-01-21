@@ -1,17 +1,29 @@
-# JavaProgram
-Author-Priya Pandey
-# Rock Paper Scissors - Java Program
+# Java Practice Programs 
+### 1️⃣ Simple Calculator
+- Performs basic arithmetic operations
+- Uses Scanner class and switch case
+- File: `SimpleCalculator.java`
 
-This is a simple console-based Rock Paper Scissors game written in Java.
+### 2️⃣ Rock Paper Scissors
+- Java-based game
+- Uses conditional statements
+- File: `RockPaperScissors.java`
 
-## Concepts Used
-- Scanner class
-- Conditional statements
-- Random class
+---
 
-## How to Run
-1. Compile: javac firstGame.java
-2. Run: java firstGame
+## 🛠 Concepts Covered
+- Java Basics
+- User Input
+- Conditional Statements
+- Switch Case
+- Loops
+
+---
+
+##  Author
+**Priya Pandey**
+
+
 
 
 
