@@ -1,7 +1,7 @@
 # Java Practice Programs 
- 1️) Simple Calculator
-2️) Rock Paper Scissors
-3) Text-Based Mafia Game
+ 1️) Simple Calculator<br>
+2️) Rock Paper Scissors<br>
+3) Text-Based Mafia Game<br>
 A text-based adventure game inspired by the Mafia concept.
 ###  Description
 - 5 players with 1 hidden Mafia
